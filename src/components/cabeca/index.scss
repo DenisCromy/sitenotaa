@@ -1,0 +1,36 @@
+.comp-cabecalho2{
+
+    
+
+    background-color: #252525;
+    display: flex;
+    justify-content: flex-start;
+    width: 25%;
+    height: 100px;
+    padding: 10px;
+    gap: 10px;
+    
+
+
+    .titulo{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #C2C2C2;
+        font-size: 20px;
+        
+
+    }
+
+    .usuario{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 40px;
+        width: 70px;
+
+    }
+
+}

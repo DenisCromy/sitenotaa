@@ -1,0 +1,171 @@
+.Insta-page {
+
+    background-color: #252525;
+    height: 900vh;   
+
+    display: flex;
+    flex-direction: row;
+
+
+    .centro {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+        width: 75%;
+
+    }
+
+
+    .addfuction {
+
+        width: 650px;
+        height: 350px;
+
+        background: rgb(37, 37, 37);
+        background: linear-gradient(0deg, rgba(37, 37, 37, 1) 0%, rgb(63, 63, 63) 100%);
+
+    }
+
+    
+
+
+    .Infor1{
+
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+
+    }
+
+    .Infor1 > input{
+
+        
+        border-radius: 5px;
+        border: none;
+
+    }
+
+
+    .Infor2{
+
+        display: flex;
+        flex-direction: column;
+        
+
+    }
+
+    .Infor2 > input{
+
+        width: 90%;
+        height: 80px;
+        margin: 10px;
+        border-radius: 5px;
+        border: none;
+
+    }
+
+    button{
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-self: center;
+        justify-self: center;
+        width: 300px;
+        height: 25px;
+        margin-left: 180px;
+        margin-top: 10px;
+
+        border: none;
+        color: white;
+        border-radius: 5px;
+        background-color: #C60844;
+
+
+    }
+
+
+
+    .postp{
+
+        .minicab{
+
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 10px;
+            text-align: center;
+            
+
+        }
+
+        .usuname{
+
+            color: #FFFFFF;
+            font-size: 16px;
+
+
+        }
+
+        .tempoo{
+
+            color: #AAAAAA;
+            font-size: 12px;
+
+        }
+
+       .fotinhaperfil{
+
+        
+
+        width: 65px;
+        height: 65px;
+        border-radius: 100%;
+
+       }
+
+       .fotinhapost{
+
+        width: 500px;
+        height: 473px;
+        border-radius: 5px;
+
+       }
+
+       .likett{
+
+        font-size: 16px;
+        color: #FFFFFF;
+
+       }
+
+       .nomeedesc{
+
+        display: flex;
+        flex-direction: row;
+
+       }
+
+       .Nomessss{
+
+        color: #FFFFFF;
+        font-size: 16px;
+
+       }
+
+       .descccc{
+
+        color: #bebebe;
+        font-size: 16px;
+        margin-left: 30px;
+
+       }
+
+
+
+
+    }
+
+
+}

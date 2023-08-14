@@ -1,0 +1,137 @@
+.carros-pagina {
+
+    background-color: #F5F6FA;
+    height: 100vh;
+
+
+    .conteudo {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 50px;
+
+    }
+
+    .VendaBloco {
+
+        box-shadow: 0px 1px 10px #949494;
+        background-color: white;
+
+        width: 659px;
+        height: 408px;
+        display: flex;
+        flex-direction: row;
+
+
+
+
+
+    }
+
+
+    .blocopng {
+
+        background-color: #CACACA;
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+
+    .blocoadd {
+
+        background-color: white;
+        width: 100%;
+
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+
+        justify-content: center;
+
+
+    }
+
+
+
+    .vltotal {
+
+        color: #646464;
+        font-size: 12px;
+        margin-bottom: 30px;
+
+    }
+
+    input {
+
+        width: 180px;
+        height: 30px;
+        font-size: 22px;
+        padding: 5px;
+        margin: 5px;
+        border-radius: 5px;
+        border: 1px #DFDFDF solid;
+    }
+
+    .botao {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-self: center;
+        margin-top: 20px;
+        width: 220px;
+        height: 30px;
+        border-radius: 5px;
+        border: none;
+        background-color: #0084FF;
+        color: white;
+        cursor: pointer;
+        margin-bottom: 20px;
+
+    }
+
+    .parc-juros {
+
+        display: flex;
+
+        color: #646464;
+        font-size: 12px;
+        gap: 20px;
+
+        .inp1 {
+
+            width: 110px;
+            height: 30px;
+            font-size: 22px;
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            border: 1px #DFDFDF solid;
+
+        }
+
+
+        .inp2 {
+
+            width: 110px;
+            height: 30px;
+            font-size: 22px;
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            border: 1px #DFDFDF solid;
+        }
+
+
+    
+
+
+
+    }
+
+}
